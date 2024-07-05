@@ -1,0 +1,6 @@
+gym-anytrading 
+stable_baselines3
+pandas_datareader
+yfinance
+finta
+quantstats
